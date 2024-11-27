@@ -6,14 +6,15 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/image-removebg-preview.png" alt="DESIGNER BLOOOMS LOGO" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">DESIGNER BLOOOMS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  FINALS PROJECT FOR WEB DESIGN BY ABAD, JOSHUA RUSSEL P.
+  THIS IS A WEBSITE FOR A EXISITING FLORAL SHOP, DESIGNER BLOOMS.
 </div>
 
 <br />
@@ -62,8 +63,8 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
+- This project is a website design for a existing floral shop in the Philippines, Designer Blooms PH
+- This is for my final project for the course Web Designing
 - What are key components
 - What technology used and how it is used
 
@@ -79,7 +80,7 @@ Guiding Question:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use `index.html` as the filename.
@@ -120,3 +121,10 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Responsive Navigation Bar | Guide for responsive navigation bar. | https://www.youtube.com/@ByteGrad |
+| Responsive Background Image | Guided me on how to apply a responsive background image. | https://www.youtube.com/watch?v=7pRZUG1gKfQ  |
+| Bootstrap 5 | Used a lot of codes here to guide and help me make this website | https://getbootstrap.com/docs/5.0/getting-started/introduction/ |
+| Columns Shop Page | Used for my shop page. It guided me on how to use columns for the bouquets in my shop page. | https://getbootstrap.com/docs/5.0/layout/columns/   |
+| Bouquet Image Placer | This Guided me on how to place the bouquet image on the shop page.| https://getbootstrap.com/docs/5.0/components/card/#images |
+| Clickable Links | Mainly used in the contact page. Guided me to pressable links for the contact page | https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#attr-href |
+| Coding Guided | Watched multiple and specific videos on what I needed for my website. | https://www.youtube.com/@cn.codingninja  |
