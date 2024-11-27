@@ -62,7 +62,7 @@ This is my website design for a existing floral company Designers Bloom Ph.
 Guiding Question:
 - This project is a website design for a existing floral shop in the Philippines, Designer Blooms PH
 - This is for my final project for the course Web Designing
-- What technology used and how it is used
+
 
 
 
